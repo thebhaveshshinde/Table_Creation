@@ -1,0 +1,17 @@
+table{
+    height: 50%;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: cyan;
+    border: 2px solid black;
+}
+
+td{
+    background-color: lightgreen;
+    border: 2px solid black;
+    text-align: center;
+
+}
